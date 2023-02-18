@@ -18,7 +18,7 @@ or `npm run dev` To Ensure the Backend is Up.
 
 OPEN AI, EXPRESS, CORS, Nodemon, Vite
 
-Credits: ActuallyBarcode
+Credits: openAI API
 
 Legal Licences: 
 Codex Barcode ChatGPT License
@@ -26,7 +26,7 @@ Version 1.0
 
 Copyright (C) 2022 Codex Barcode
 
-This license grants the user a non-exclusive, non-transferable license to use and modify the Codex Barcode ChatGPT software for personal and commercial purposes.
+This license grants the user a non-exclusive, non-transferable license to use and modify the Codex API ChatGPT software for personal and commercial purposes.
 
 Any user of the software must agree to the terms listed below:
 
