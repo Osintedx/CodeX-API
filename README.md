@@ -40,6 +40,6 @@ Any user of the software must agree to the terms listed below:
 
 5. The user agrees to not use the software to create any software or product that could be used to circumvent any security measures implemented by Codex Barcode.
 
-6. The user agrees to indemnify and hold Codex Barcode harmless from any damages, losses, or
+6. The user agrees to indemnify and hold Codex API harmless from any damages, losses, or
 
 7. Copying and or Claiming you've created, and or distributing Source Code for Miss-Uses, and or Claiming you coded it Is a DMCA Regulation by Github
